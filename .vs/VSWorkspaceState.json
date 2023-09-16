@@ -3,8 +3,12 @@
     "",
     "\\Consultorio_Dentista",
     "\\Consultorio_Dentista\\Consultorio_Dentista",
+    "\\Consultorio_Dentista\\Consultorio_Dentista.Model",
+    "\\Consultorio_Dentista\\Consultorio_Dentista.Model\\Models",
+    "\\Consultorio_Dentista\\Consultorio_Dentista.Model\\Repository",
+    "\\Consultorio_Dentista\\Consultorio_Dentista.Model\\Services",
     "\\Consultorio_Dentista\\Consultorio_Dentista\\Controllers"
   ],
-  "SelectedNode": "\\Consultorio_Dentista\\Consultorio_Dentista\\Controllers\\EstoqueController.cs",
+  "SelectedNode": "\\Consultorio_Dentista\\Consultorio_Dentista.sln",
   "PreviewInSolutionExplorer": false
 }
