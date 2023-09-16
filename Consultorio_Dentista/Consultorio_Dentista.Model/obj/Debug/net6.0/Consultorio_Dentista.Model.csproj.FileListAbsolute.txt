@@ -1,0 +1,14 @@
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\bin\Debug\net6.0\Consultorio_Dentista.Model.deps.json
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\bin\Debug\net6.0\Consultorio_Dentista.Model.runtimeconfig.json
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\bin\Debug\net6.0\Consultorio_Dentista.Model.dll
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\bin\Debug\net6.0\Consultorio_Dentista.Model.pdb
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\obj\Debug\net6.0\Consultorio_Dentista.Model.csproj.AssemblyReference.cache
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\obj\Debug\net6.0\Consultorio_Dentista.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\obj\Debug\net6.0\Consultorio_Dentista.Model.AssemblyInfoInputs.cache
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\obj\Debug\net6.0\Consultorio_Dentista.Model.AssemblyInfo.cs
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\obj\Debug\net6.0\Consultorio_Dentista.Model.csproj.CoreCompileInputs.cache
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\obj\Debug\net6.0\Consultorio_Dentista.Model.dll
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\obj\Debug\net6.0\refint\Consultorio_Dentista.Model.dll
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\obj\Debug\net6.0\Consultorio_Dentista.Model.pdb
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\obj\Debug\net6.0\Consultorio_Dentista.Model.genruntimeconfig.cache
+D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista.Model\obj\Debug\net6.0\ref\Consultorio_Dentista.Model.dll
