@@ -19,7 +19,7 @@ public partial class CONSULTORIO_DENTISTAContext : DbContext
     }
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 
- => optionsBuilder.UseSqlServer("data source=NOTEBOOK-MARCOS\\SQLEXPRESS;Initial Catalog=DBSISTEMAS;User Id=sa;Password=2000@edu.sau;TrustserverCertificate=True");
+ => optionsBuilder.UseSqlServer("data source=Localhost\\SQLEXPRESS;Initial Catalog=CONSULTORIO_DENTISTA;Integrated Security=True; TrustServerCertificate=True");
     public virtual DbSet<Cliente> Cliente { get; set; }
 
     public virtual DbSet<Consultas> Consultas { get; set; }

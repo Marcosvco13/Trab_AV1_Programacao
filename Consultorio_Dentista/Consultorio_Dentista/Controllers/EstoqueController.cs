@@ -1,6 +1,7 @@
 ﻿using Consultorio_Dentista.Model.Services;
 using Consultorio_Dentista.Model.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace Consultorio_Dentista.Controllers
 {
@@ -19,17 +20,30 @@ namespace Consultorio_Dentista.Controllers
             return View(listaEstoque);
         }
 
+        public void CarregaDadosViewBag()
+        {
+            ViewData["Id"] = new SelectList(_ServiceEstoque.oRepositoryEstoque.SelecionarTodos(), "NOME", "CPF", "TELEFONE");
+        }
         [HttpGet]
         public IActionResult Create()
         {
+            CarregaDadosViewBag();
             return View();
         }
 
         [HttpPost]
         public async Task<IActionResult> Create(Estoque estoque)
         {
-            var salvaEstoque = await _ServiceEstoque.oRepositoryEstoque.IncluirAsync(estoque);
-            return View(salvaEstoque);
+            CarregaDadosViewBag();
+            if (ModelState.IsValid)
+            {
+                estoque = await _ServiceEstoque.oRepositoryEstoque.IncluirAsync(estoque);
+                return View(estoque);
+            }
+            else
+            {
+                return View(estoque);
+            }
         }
 
         [HttpGet]
@@ -58,7 +72,7 @@ namespace Consultorio_Dentista.Controllers
             return RedirectToAction("Index");
         }
 
-        [HttpGet]
+        
         public async Task<IActionResult> Details(int id)
         {
             var tipoEstoque = await _ServiceEstoque.oRepositoryEstoque.SelecionarPkAsync(id);
