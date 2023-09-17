@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\gusta\OneDrive\Documentos\GitHub\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Detalhe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhbGhlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Consultas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

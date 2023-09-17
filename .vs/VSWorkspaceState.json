@@ -7,7 +7,8 @@
     "\\Consultorio_Dentista\\Consultorio_Dentista.Model\\Models",
     "\\Consultorio_Dentista\\Consultorio_Dentista.Model\\Repository",
     "\\Consultorio_Dentista\\Consultorio_Dentista.Model\\Services",
-    "\\Consultorio_Dentista\\Consultorio_Dentista\\Controllers"
+    "\\Consultorio_Dentista\\Consultorio_Dentista\\Controllers",
+    "\\Consultorio_Dentista\\Consultorio_Dentista\\ViewModel"
   ],
   "SelectedNode": "\\Consultorio_Dentista\\Consultorio_Dentista.sln",
   "PreviewInSolutionExplorer": false

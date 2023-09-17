@@ -17,6 +17,7 @@ namespace Consultorio_Dentista.Controllers
         {   
             var ListaConsultas = await _ServiceConsultas.oRepositoryConsultas.SelecionarTodosAsync();
             return View(ListaConsultas);
+
         }
         public void CarregaDadosViewBag()
         {

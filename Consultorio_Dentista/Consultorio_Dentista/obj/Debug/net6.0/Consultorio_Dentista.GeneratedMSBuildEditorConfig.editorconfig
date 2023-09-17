@@ -9,97 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Consultorio_Dentista
 build_property.RootNamespace = Consultorio_Dentista
-build_property.ProjectDir = D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista\
+build_property.ProjectDir = C:\Users\gusta\OneDrive\Documentos\GitHub\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Faculdade\C#\Trab_Av1\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista
+build_property.MSBuildProjectDirectory = C:\Users\gusta\OneDrive\Documentos\GitHub\Trab_AV1_Programacao\Consultorio_Dentista\Consultorio_Dentista
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Create.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Delete.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Detalhe.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Detalhe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhbGhlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Edit.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Index.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Consultas/Create.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Consultas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Consultas/Delete.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Consultas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Consultas/Details.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Consultas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Consultas/Edit.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Consultas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Consultas/Index.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Consultas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Estoque/Create.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Estoque/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0b3F1ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Estoque/Delete.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Estoque/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0b3F1ZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Estoque/Details.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Estoque/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0b3F1ZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Estoque/Edit.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Estoque/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0b3F1ZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Estoque/Index.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Estoque/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0b3F1ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Home/Index.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Home/Privacy.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Shared/Error.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/_ViewImports.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/_ViewStart.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/C\#/Trab_Av1/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Shared/_Layout.cshtml]
+[C:/Users/gusta/OneDrive/Documentos/GitHub/Trab_AV1_Programacao/Consultorio_Dentista/Consultorio_Dentista/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w93h5whcm1
