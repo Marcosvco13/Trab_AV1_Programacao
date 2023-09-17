@@ -11,12 +11,11 @@ public partial class Cliente
     public int Id { get; set; }
 
     public string Nome { get; set; }
-    [DisplayName("CPF")]
+
     public string Cpf { get; set; }
 
-    [DisplayName("Data de Nascimento")]
     public DateTime DataNascimento { get; set; }
-    [DisplayName("Nome do Responsável")]
+
     public string NomeResp { get; set; }
 
     public string Telefone { get; set; }
@@ -26,7 +25,7 @@ public partial class Cliente
     public string Logradouro { get; set; }
 
     public string Numero { get; set; }
-    [DisplayName("CEP")]
+
     public string Cep { get; set; }
 
     public string Bairro { get; set; }

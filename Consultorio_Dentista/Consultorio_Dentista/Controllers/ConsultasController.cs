@@ -13,23 +13,25 @@ namespace Consultorio_Dentista.Controllers
         {
             _ServiceConsultas = new ServiceConsultas();    
         }
+
         public async Task<IActionResult> Index()
         {   
             var ListaConsultas = await _ServiceConsultas.oRepositoryConsultas.SelecionarTodosAsync();
             return View(ListaConsultas);
-
         }
+
         public void CarregaDadosViewBag()
         {
-            ViewData["Id"] = new SelectList(_ServiceConsultas.oRepositoryConsultas.SelecionarTodos(), "ID_Cliente","Data_Consulta", "Hora_Consulta", "Descricao");
-
+            ViewData["IdCliente"] = new SelectList(_ServiceConsultas.oRepositoryCliente.SelecionarTodos(), "Id", "Nome");
         }
+
         [HttpGet]
         public IActionResult Create()
         {
             CarregaDadosViewBag();
             return View();
         }
+
         [HttpPost]
         public async Task<IActionResult> Create(Consultas consultas)
         {
@@ -44,12 +46,14 @@ namespace Consultorio_Dentista.Controllers
                 return View(consultas);
             }
         }
+
         [HttpGet]
         public async Task<IActionResult> Edit(int id)
         {
             var tipoConsulta = await _ServiceConsultas.oRepositoryConsultas.SelecionarPkAsync(id);
             return View(tipoConsulta);
         }
+
         [HttpPost]
         public async Task<IActionResult> Edit(Consultas consulta)
         {
@@ -61,12 +65,14 @@ namespace Consultorio_Dentista.Controllers
             ViewData["MensagemErro"] = "Ocorreu um erro";
             return View();
         }
+
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
         {
             await _ServiceConsultas.oRepositoryConsultas.ExcluirAsync(id);
             return RedirectToAction("Index");
         }
+
         public async Task<IActionResult> Details(int id)
         {
             var tipoConsulta = await _ServiceConsultas.oRepositoryConsultas.SelecionarPkAsync(id);

@@ -9,13 +9,13 @@ namespace Consultorio_Dentista.Model.Models;
 public partial class Consultas
 {
     public int Id { get; set; }
-
+    [DisplayName("Paciente")]
     public int IdCliente { get; set; }
     [DisplayName("Data da Consulta")]
     public DateTime DataConsulta { get; set; }
     [DisplayName("Hora da Consulta")]
     public DateTime HoraConsulta { get; set; }
-
+    [DisplayName("Descrição")]
     public string Descricao { get; set; }
 
     public virtual Cliente IdClienteNavigation { get; set; }

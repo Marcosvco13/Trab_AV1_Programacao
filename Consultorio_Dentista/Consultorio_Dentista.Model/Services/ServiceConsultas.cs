@@ -10,12 +10,11 @@ namespace Consultorio_Dentista.Model.Services
     public class ServiceConsultas
     {
         public RepositoryConsultas oRepositoryConsultas { get; set; }
-
         public RepositoryCliente oRepositoryCliente { get; set; }
+
         public ServiceConsultas()
         {
             oRepositoryConsultas = new RepositoryConsultas();
-
             oRepositoryCliente = new RepositoryCliente();
         }
     }
