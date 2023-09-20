@@ -2,24 +2,22 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 
 namespace Consultorio_Dentista.Model.Models;
 
 public partial class Estoque
 {
     public int Id { get; set; }
-    [DisplayName("Nome")]
+
     public string NomeProduto { get; set; }
 
     public int Quantidade { get; set; }
 
-    [DisplayName("Preco Unitário")]
     public decimal? PrecoUnitario { get; set; }
 
     public string Fornecedor { get; set; }
 
     public int? Perecivel { get; set; }
-    [DisplayName("Data de Validade")]
+
     public DateTime? DataValidade { get; set; }
 }

@@ -2,6 +2,7 @@
 using Consultorio_Dentista.Model.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Consultorio_Dentista.ViewModel;
 
 namespace Consultorio_Dentista.Controllers
 {
@@ -16,7 +17,7 @@ namespace Consultorio_Dentista.Controllers
 
         public async Task<IActionResult> Index()
         {   
-            var ListaConsultas = await _ServiceConsultas.oRepositoryConsultas.SelecionarTodosAsync();
+            var ListaConsultas = ConsultaVM.ListarTodasConsultas();
             return View(ListaConsultas);
         }
 
@@ -50,6 +51,7 @@ namespace Consultorio_Dentista.Controllers
         [HttpGet]
         public async Task<IActionResult> Edit(int id)
         {
+            CarregaDadosViewBag();
             var tipoConsulta = await _ServiceConsultas.oRepositoryConsultas.SelecionarPkAsync(id);
             return View(tipoConsulta);
         }
@@ -57,7 +59,8 @@ namespace Consultorio_Dentista.Controllers
         [HttpPost]
         public async Task<IActionResult> Edit(Consultas consulta)
         {
-            if(ModelState.IsValid)
+            CarregaDadosViewBag();
+            if (ModelState.IsValid)
             {
                 var tipoConsulta = await _ServiceConsultas.oRepositoryConsultas.AlterarAsync(consulta);
                 return View(tipoConsulta);
@@ -75,8 +78,8 @@ namespace Consultorio_Dentista.Controllers
 
         public async Task<IActionResult> Details(int id)
         {
-            var tipoConsulta = await _ServiceConsultas.oRepositoryConsultas.SelecionarPkAsync(id);
-            return View(tipoConsulta);
+            var consulta = ConsultaVM.Selecionar(id);
+            return View(consulta);
         }
 
     }

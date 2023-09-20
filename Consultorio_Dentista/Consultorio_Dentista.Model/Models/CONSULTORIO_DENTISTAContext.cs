@@ -12,14 +12,14 @@ public partial class CONSULTORIO_DENTISTAContext : DbContext
         : base(options)
     {
     }
-
     public CONSULTORIO_DENTISTAContext()
     {
-
     }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 
-=> optionsBuilder.UseSqlServer("data source=GUSTAVO\\SQLEXPRESS;Initial Catalog=CONSULTORIO_DENTISTA;Integrated Security=True; TrustServerCertificate=True");
+=> optionsBuilder.UseSqlServer("data source=NOTEBOOK-MARCOS\\SQLEXPRESS;Initial Catalog=CONSULTORIO_DENTISTA;User Id=sa;Password=2000@edu.sau;TrustserverCertificate=True");
+
 
     public virtual DbSet<Cliente> Cliente { get; set; }
 
@@ -102,9 +102,6 @@ public partial class CONSULTORIO_DENTISTAContext : DbContext
                 .HasMaxLength(1000)
                 .IsUnicode(false)
                 .HasColumnName("DESCRICAO");
-            entity.Property(e => e.HoraConsulta)
-                .HasColumnType("datetime")
-                .HasColumnName("HORA_CONSULTA");
             entity.Property(e => e.IdCliente).HasColumnName("ID_CLIENTE");
 
             entity.HasOne(d => d.IdClienteNavigation).WithMany(p => p.Consultas)
